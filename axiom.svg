@@ -2,11 +2,11 @@
   <style>
     @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=block');
     @font-face {
-      font-family: 'JetBrains Mono Fallback';
+      font-family: 'Axiom Font';
       font-weight: 800;
-      src: local('JetBrains Mono ExtraBold'), local('JetBrainsMono-ExtraBold'), url('./font.ttf') format('truetype');
+      src: url('./font.ttf') format('truetype');
     }
-    .word { font-family: 'JetBrains Mono', 'JetBrains Mono Fallback', monospace; font-weight: 800; font-size: 140px; }
+    .word { font-family: 'Axiom Font', 'JetBrains Mono'; font-weight: 800; font-size: 140px; }
     .ink { fill: #000000; }
     @media (prefers-color-scheme: dark) { .ink { fill: #ffffff; } }
   </style>
