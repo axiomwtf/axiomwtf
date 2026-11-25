@@ -64,5 +64,5 @@ And no wrappers around someone else's config soup.
 <br>
 
 <p align="center">
-  <sub>licensed under <a href="https://www.apache.org/licenses/LICENSE-2.0">apache-2.0</a>. always.</sub>
+  <sub>Licensed under <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache-2.0</a>. Always, No matter what.</sub>
 </p>
