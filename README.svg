@@ -1,0 +1,589 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 1063" width="880" height="1063" role="img" aria-label="axiomwtf: a small independent software studio">
+  <style>
+    @font-face { font-family: "JBM"; font-weight: 400; src: url(data:font/ttf;base64,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) format("truetype"); }
+    @font-face { font-family: "JBM"; font-weight: 800; src: url(data:font/ttf;base64,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) format("truetype"); }
+    text { font-family: "JBM"; }
+    .r { font-weight: 400; }
+    .b { font-weight: 800; }
+    .bg { fill: #ffffff; }
+    .ink { fill: #000000; }
+    .line { fill: none; stroke: #000000; stroke-width: 1; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #000000; }
+      .ink { fill: #ffffff; }
+      .line { stroke: #ffffff; }
+    }
+  </style>
+  <rect class="bg" width="880" height="1063"/>
+  <g class="ink" transform="translate(140.00 56) scale(0.9390)">
+    <circle cx="193.5" cy="4.5" r="4"/>
+    <circle cx="202.5" cy="4.5" r="4"/>
+    <circle cx="211.5" cy="4.5" r="4"/>
+    <circle cx="193.5" cy="13.5" r="4"/>
+    <circle cx="202.5" cy="13.5" r="4"/>
+    <circle cx="211.5" cy="13.5" r="4"/>
+    <circle cx="508.5" cy="13.5" r="4"/>
+    <circle cx="517.5" cy="13.5" r="4"/>
+    <circle cx="598.5" cy="13.5" r="4"/>
+    <circle cx="607.5" cy="13.5" r="4"/>
+    <circle cx="616.5" cy="13.5" r="4"/>
+    <circle cx="625.5" cy="13.5" r="4"/>
+    <circle cx="634.5" cy="13.5" r="4"/>
+    <circle cx="508.5" cy="22.5" r="4"/>
+    <circle cx="517.5" cy="22.5" r="4"/>
+    <circle cx="589.5" cy="22.5" r="4"/>
+    <circle cx="598.5" cy="22.5" r="4"/>
+    <circle cx="607.5" cy="22.5" r="4"/>
+    <circle cx="616.5" cy="22.5" r="4"/>
+    <circle cx="625.5" cy="22.5" r="4"/>
+    <circle cx="634.5" cy="22.5" r="4"/>
+    <circle cx="508.5" cy="31.5" r="4"/>
+    <circle cx="517.5" cy="31.5" r="4"/>
+    <circle cx="589.5" cy="31.5" r="4"/>
+    <circle cx="598.5" cy="31.5" r="4"/>
+    <circle cx="607.5" cy="31.5" r="4"/>
+    <circle cx="13.5" cy="40.5" r="4"/>
+    <circle cx="22.5" cy="40.5" r="4"/>
+    <circle cx="31.5" cy="40.5" r="4"/>
+    <circle cx="40.5" cy="40.5" r="4"/>
+    <circle cx="49.5" cy="40.5" r="4"/>
+    <circle cx="58.5" cy="40.5" r="4"/>
+    <circle cx="85.5" cy="40.5" r="4"/>
+    <circle cx="94.5" cy="40.5" r="4"/>
+    <circle cx="103.5" cy="40.5" r="4"/>
+    <circle cx="130.5" cy="40.5" r="4"/>
+    <circle cx="139.5" cy="40.5" r="4"/>
+    <circle cx="175.5" cy="40.5" r="4"/>
+    <circle cx="184.5" cy="40.5" r="4"/>
+    <circle cx="193.5" cy="40.5" r="4"/>
+    <circle cx="202.5" cy="40.5" r="4"/>
+    <circle cx="211.5" cy="40.5" r="4"/>
+    <circle cx="256.5" cy="40.5" r="4"/>
+    <circle cx="265.5" cy="40.5" r="4"/>
+    <circle cx="274.5" cy="40.5" r="4"/>
+    <circle cx="283.5" cy="40.5" r="4"/>
+    <circle cx="292.5" cy="40.5" r="4"/>
+    <circle cx="301.5" cy="40.5" r="4"/>
+    <circle cx="328.5" cy="40.5" r="4"/>
+    <circle cx="337.5" cy="40.5" r="4"/>
+    <circle cx="346.5" cy="40.5" r="4"/>
+    <circle cx="355.5" cy="40.5" r="4"/>
+    <circle cx="364.5" cy="40.5" r="4"/>
+    <circle cx="373.5" cy="40.5" r="4"/>
+    <circle cx="382.5" cy="40.5" r="4"/>
+    <circle cx="391.5" cy="40.5" r="4"/>
+    <circle cx="409.5" cy="40.5" r="4"/>
+    <circle cx="436.5" cy="40.5" r="4"/>
+    <circle cx="445.5" cy="40.5" r="4"/>
+    <circle cx="472.5" cy="40.5" r="4"/>
+    <circle cx="490.5" cy="40.5" r="4"/>
+    <circle cx="499.5" cy="40.5" r="4"/>
+    <circle cx="508.5" cy="40.5" r="4"/>
+    <circle cx="517.5" cy="40.5" r="4"/>
+    <circle cx="526.5" cy="40.5" r="4"/>
+    <circle cx="535.5" cy="40.5" r="4"/>
+    <circle cx="544.5" cy="40.5" r="4"/>
+    <circle cx="553.5" cy="40.5" r="4"/>
+    <circle cx="589.5" cy="40.5" r="4"/>
+    <circle cx="598.5" cy="40.5" r="4"/>
+    <circle cx="607.5" cy="40.5" r="4"/>
+    <circle cx="13.5" cy="49.5" r="4"/>
+    <circle cx="22.5" cy="49.5" r="4"/>
+    <circle cx="49.5" cy="49.5" r="4"/>
+    <circle cx="58.5" cy="49.5" r="4"/>
+    <circle cx="94.5" cy="49.5" r="4"/>
+    <circle cx="103.5" cy="49.5" r="4"/>
+    <circle cx="112.5" cy="49.5" r="4"/>
+    <circle cx="121.5" cy="49.5" r="4"/>
+    <circle cx="130.5" cy="49.5" r="4"/>
+    <circle cx="139.5" cy="49.5" r="4"/>
+    <circle cx="175.5" cy="49.5" r="4"/>
+    <circle cx="184.5" cy="49.5" r="4"/>
+    <circle cx="193.5" cy="49.5" r="4"/>
+    <circle cx="202.5" cy="49.5" r="4"/>
+    <circle cx="211.5" cy="49.5" r="4"/>
+    <circle cx="256.5" cy="49.5" r="4"/>
+    <circle cx="265.5" cy="49.5" r="4"/>
+    <circle cx="274.5" cy="49.5" r="4"/>
+    <circle cx="283.5" cy="49.5" r="4"/>
+    <circle cx="292.5" cy="49.5" r="4"/>
+    <circle cx="301.5" cy="49.5" r="4"/>
+    <circle cx="328.5" cy="49.5" r="4"/>
+    <circle cx="337.5" cy="49.5" r="4"/>
+    <circle cx="355.5" cy="49.5" r="4"/>
+    <circle cx="364.5" cy="49.5" r="4"/>
+    <circle cx="382.5" cy="49.5" r="4"/>
+    <circle cx="391.5" cy="49.5" r="4"/>
+    <circle cx="409.5" cy="49.5" r="4"/>
+    <circle cx="436.5" cy="49.5" r="4"/>
+    <circle cx="445.5" cy="49.5" r="4"/>
+    <circle cx="472.5" cy="49.5" r="4"/>
+    <circle cx="490.5" cy="49.5" r="4"/>
+    <circle cx="499.5" cy="49.5" r="4"/>
+    <circle cx="508.5" cy="49.5" r="4"/>
+    <circle cx="517.5" cy="49.5" r="4"/>
+    <circle cx="526.5" cy="49.5" r="4"/>
+    <circle cx="535.5" cy="49.5" r="4"/>
+    <circle cx="544.5" cy="49.5" r="4"/>
+    <circle cx="553.5" cy="49.5" r="4"/>
+    <circle cx="571.5" cy="49.5" r="4"/>
+    <circle cx="580.5" cy="49.5" r="4"/>
+    <circle cx="589.5" cy="49.5" r="4"/>
+    <circle cx="598.5" cy="49.5" r="4"/>
+    <circle cx="607.5" cy="49.5" r="4"/>
+    <circle cx="616.5" cy="49.5" r="4"/>
+    <circle cx="625.5" cy="49.5" r="4"/>
+    <circle cx="634.5" cy="49.5" r="4"/>
+    <circle cx="49.5" cy="58.5" r="4"/>
+    <circle cx="58.5" cy="58.5" r="4"/>
+    <circle cx="67.5" cy="58.5" r="4"/>
+    <circle cx="103.5" cy="58.5" r="4"/>
+    <circle cx="112.5" cy="58.5" r="4"/>
+    <circle cx="121.5" cy="58.5" r="4"/>
+    <circle cx="130.5" cy="58.5" r="4"/>
+    <circle cx="193.5" cy="58.5" r="4"/>
+    <circle cx="202.5" cy="58.5" r="4"/>
+    <circle cx="211.5" cy="58.5" r="4"/>
+    <circle cx="247.5" cy="58.5" r="4"/>
+    <circle cx="256.5" cy="58.5" r="4"/>
+    <circle cx="265.5" cy="58.5" r="4"/>
+    <circle cx="292.5" cy="58.5" r="4"/>
+    <circle cx="301.5" cy="58.5" r="4"/>
+    <circle cx="310.5" cy="58.5" r="4"/>
+    <circle cx="328.5" cy="58.5" r="4"/>
+    <circle cx="337.5" cy="58.5" r="4"/>
+    <circle cx="355.5" cy="58.5" r="4"/>
+    <circle cx="364.5" cy="58.5" r="4"/>
+    <circle cx="382.5" cy="58.5" r="4"/>
+    <circle cx="391.5" cy="58.5" r="4"/>
+    <circle cx="409.5" cy="58.5" r="4"/>
+    <circle cx="418.5" cy="58.5" r="4"/>
+    <circle cx="436.5" cy="58.5" r="4"/>
+    <circle cx="445.5" cy="58.5" r="4"/>
+    <circle cx="463.5" cy="58.5" r="4"/>
+    <circle cx="472.5" cy="58.5" r="4"/>
+    <circle cx="508.5" cy="58.5" r="4"/>
+    <circle cx="517.5" cy="58.5" r="4"/>
+    <circle cx="571.5" cy="58.5" r="4"/>
+    <circle cx="580.5" cy="58.5" r="4"/>
+    <circle cx="589.5" cy="58.5" r="4"/>
+    <circle cx="598.5" cy="58.5" r="4"/>
+    <circle cx="607.5" cy="58.5" r="4"/>
+    <circle cx="616.5" cy="58.5" r="4"/>
+    <circle cx="625.5" cy="58.5" r="4"/>
+    <circle cx="634.5" cy="58.5" r="4"/>
+    <circle cx="13.5" cy="67.5" r="4"/>
+    <circle cx="22.5" cy="67.5" r="4"/>
+    <circle cx="31.5" cy="67.5" r="4"/>
+    <circle cx="40.5" cy="67.5" r="4"/>
+    <circle cx="49.5" cy="67.5" r="4"/>
+    <circle cx="58.5" cy="67.5" r="4"/>
+    <circle cx="67.5" cy="67.5" r="4"/>
+    <circle cx="103.5" cy="67.5" r="4"/>
+    <circle cx="112.5" cy="67.5" r="4"/>
+    <circle cx="121.5" cy="67.5" r="4"/>
+    <circle cx="193.5" cy="67.5" r="4"/>
+    <circle cx="202.5" cy="67.5" r="4"/>
+    <circle cx="211.5" cy="67.5" r="4"/>
+    <circle cx="247.5" cy="67.5" r="4"/>
+    <circle cx="256.5" cy="67.5" r="4"/>
+    <circle cx="265.5" cy="67.5" r="4"/>
+    <circle cx="292.5" cy="67.5" r="4"/>
+    <circle cx="301.5" cy="67.5" r="4"/>
+    <circle cx="310.5" cy="67.5" r="4"/>
+    <circle cx="328.5" cy="67.5" r="4"/>
+    <circle cx="337.5" cy="67.5" r="4"/>
+    <circle cx="355.5" cy="67.5" r="4"/>
+    <circle cx="364.5" cy="67.5" r="4"/>
+    <circle cx="382.5" cy="67.5" r="4"/>
+    <circle cx="391.5" cy="67.5" r="4"/>
+    <circle cx="409.5" cy="67.5" r="4"/>
+    <circle cx="418.5" cy="67.5" r="4"/>
+    <circle cx="427.5" cy="67.5" r="4"/>
+    <circle cx="436.5" cy="67.5" r="4"/>
+    <circle cx="445.5" cy="67.5" r="4"/>
+    <circle cx="454.5" cy="67.5" r="4"/>
+    <circle cx="463.5" cy="67.5" r="4"/>
+    <circle cx="472.5" cy="67.5" r="4"/>
+    <circle cx="508.5" cy="67.5" r="4"/>
+    <circle cx="517.5" cy="67.5" r="4"/>
+    <circle cx="589.5" cy="67.5" r="4"/>
+    <circle cx="598.5" cy="67.5" r="4"/>
+    <circle cx="607.5" cy="67.5" r="4"/>
+    <circle cx="4.5" cy="76.5" r="4"/>
+    <circle cx="13.5" cy="76.5" r="4"/>
+    <circle cx="22.5" cy="76.5" r="4"/>
+    <circle cx="49.5" cy="76.5" r="4"/>
+    <circle cx="58.5" cy="76.5" r="4"/>
+    <circle cx="67.5" cy="76.5" r="4"/>
+    <circle cx="103.5" cy="76.5" r="4"/>
+    <circle cx="112.5" cy="76.5" r="4"/>
+    <circle cx="121.5" cy="76.5" r="4"/>
+    <circle cx="130.5" cy="76.5" r="4"/>
+    <circle cx="193.5" cy="76.5" r="4"/>
+    <circle cx="202.5" cy="76.5" r="4"/>
+    <circle cx="211.5" cy="76.5" r="4"/>
+    <circle cx="247.5" cy="76.5" r="4"/>
+    <circle cx="256.5" cy="76.5" r="4"/>
+    <circle cx="265.5" cy="76.5" r="4"/>
+    <circle cx="292.5" cy="76.5" r="4"/>
+    <circle cx="301.5" cy="76.5" r="4"/>
+    <circle cx="310.5" cy="76.5" r="4"/>
+    <circle cx="328.5" cy="76.5" r="4"/>
+    <circle cx="337.5" cy="76.5" r="4"/>
+    <circle cx="355.5" cy="76.5" r="4"/>
+    <circle cx="364.5" cy="76.5" r="4"/>
+    <circle cx="382.5" cy="76.5" r="4"/>
+    <circle cx="391.5" cy="76.5" r="4"/>
+    <circle cx="409.5" cy="76.5" r="4"/>
+    <circle cx="418.5" cy="76.5" r="4"/>
+    <circle cx="427.5" cy="76.5" r="4"/>
+    <circle cx="436.5" cy="76.5" r="4"/>
+    <circle cx="445.5" cy="76.5" r="4"/>
+    <circle cx="454.5" cy="76.5" r="4"/>
+    <circle cx="463.5" cy="76.5" r="4"/>
+    <circle cx="472.5" cy="76.5" r="4"/>
+    <circle cx="508.5" cy="76.5" r="4"/>
+    <circle cx="517.5" cy="76.5" r="4"/>
+    <circle cx="589.5" cy="76.5" r="4"/>
+    <circle cx="598.5" cy="76.5" r="4"/>
+    <circle cx="607.5" cy="76.5" r="4"/>
+    <circle cx="4.5" cy="85.5" r="4"/>
+    <circle cx="13.5" cy="85.5" r="4"/>
+    <circle cx="49.5" cy="85.5" r="4"/>
+    <circle cx="58.5" cy="85.5" r="4"/>
+    <circle cx="67.5" cy="85.5" r="4"/>
+    <circle cx="103.5" cy="85.5" r="4"/>
+    <circle cx="112.5" cy="85.5" r="4"/>
+    <circle cx="121.5" cy="85.5" r="4"/>
+    <circle cx="130.5" cy="85.5" r="4"/>
+    <circle cx="193.5" cy="85.5" r="4"/>
+    <circle cx="202.5" cy="85.5" r="4"/>
+    <circle cx="211.5" cy="85.5" r="4"/>
+    <circle cx="247.5" cy="85.5" r="4"/>
+    <circle cx="256.5" cy="85.5" r="4"/>
+    <circle cx="265.5" cy="85.5" r="4"/>
+    <circle cx="292.5" cy="85.5" r="4"/>
+    <circle cx="301.5" cy="85.5" r="4"/>
+    <circle cx="310.5" cy="85.5" r="4"/>
+    <circle cx="328.5" cy="85.5" r="4"/>
+    <circle cx="337.5" cy="85.5" r="4"/>
+    <circle cx="355.5" cy="85.5" r="4"/>
+    <circle cx="364.5" cy="85.5" r="4"/>
+    <circle cx="382.5" cy="85.5" r="4"/>
+    <circle cx="391.5" cy="85.5" r="4"/>
+    <circle cx="409.5" cy="85.5" r="4"/>
+    <circle cx="418.5" cy="85.5" r="4"/>
+    <circle cx="427.5" cy="85.5" r="4"/>
+    <circle cx="454.5" cy="85.5" r="4"/>
+    <circle cx="463.5" cy="85.5" r="4"/>
+    <circle cx="472.5" cy="85.5" r="4"/>
+    <circle cx="508.5" cy="85.5" r="4"/>
+    <circle cx="517.5" cy="85.5" r="4"/>
+    <circle cx="589.5" cy="85.5" r="4"/>
+    <circle cx="598.5" cy="85.5" r="4"/>
+    <circle cx="607.5" cy="85.5" r="4"/>
+    <circle cx="4.5" cy="94.5" r="4"/>
+    <circle cx="13.5" cy="94.5" r="4"/>
+    <circle cx="22.5" cy="94.5" r="4"/>
+    <circle cx="31.5" cy="94.5" r="4"/>
+    <circle cx="40.5" cy="94.5" r="4"/>
+    <circle cx="49.5" cy="94.5" r="4"/>
+    <circle cx="58.5" cy="94.5" r="4"/>
+    <circle cx="67.5" cy="94.5" r="4"/>
+    <circle cx="94.5" cy="94.5" r="4"/>
+    <circle cx="103.5" cy="94.5" r="4"/>
+    <circle cx="130.5" cy="94.5" r="4"/>
+    <circle cx="139.5" cy="94.5" r="4"/>
+    <circle cx="166.5" cy="94.5" r="4"/>
+    <circle cx="175.5" cy="94.5" r="4"/>
+    <circle cx="184.5" cy="94.5" r="4"/>
+    <circle cx="193.5" cy="94.5" r="4"/>
+    <circle cx="202.5" cy="94.5" r="4"/>
+    <circle cx="211.5" cy="94.5" r="4"/>
+    <circle cx="220.5" cy="94.5" r="4"/>
+    <circle cx="229.5" cy="94.5" r="4"/>
+    <circle cx="256.5" cy="94.5" r="4"/>
+    <circle cx="265.5" cy="94.5" r="4"/>
+    <circle cx="274.5" cy="94.5" r="4"/>
+    <circle cx="283.5" cy="94.5" r="4"/>
+    <circle cx="292.5" cy="94.5" r="4"/>
+    <circle cx="301.5" cy="94.5" r="4"/>
+    <circle cx="328.5" cy="94.5" r="4"/>
+    <circle cx="337.5" cy="94.5" r="4"/>
+    <circle cx="355.5" cy="94.5" r="4"/>
+    <circle cx="364.5" cy="94.5" r="4"/>
+    <circle cx="382.5" cy="94.5" r="4"/>
+    <circle cx="391.5" cy="94.5" r="4"/>
+    <circle cx="409.5" cy="94.5" r="4"/>
+    <circle cx="418.5" cy="94.5" r="4"/>
+    <circle cx="427.5" cy="94.5" r="4"/>
+    <circle cx="454.5" cy="94.5" r="4"/>
+    <circle cx="463.5" cy="94.5" r="4"/>
+    <circle cx="472.5" cy="94.5" r="4"/>
+    <circle cx="508.5" cy="94.5" r="4"/>
+    <circle cx="517.5" cy="94.5" r="4"/>
+    <circle cx="526.5" cy="94.5" r="4"/>
+    <circle cx="535.5" cy="94.5" r="4"/>
+    <circle cx="544.5" cy="94.5" r="4"/>
+    <circle cx="553.5" cy="94.5" r="4"/>
+    <circle cx="589.5" cy="94.5" r="4"/>
+    <circle cx="598.5" cy="94.5" r="4"/>
+    <circle cx="607.5" cy="94.5" r="4"/>
+    <circle cx="13.5" cy="103.5" r="4"/>
+    <circle cx="22.5" cy="103.5" r="4"/>
+    <circle cx="31.5" cy="103.5" r="4"/>
+    <circle cx="40.5" cy="103.5" r="4"/>
+    <circle cx="49.5" cy="103.5" r="4"/>
+    <circle cx="58.5" cy="103.5" r="4"/>
+    <circle cx="67.5" cy="103.5" r="4"/>
+    <circle cx="85.5" cy="103.5" r="4"/>
+    <circle cx="94.5" cy="103.5" r="4"/>
+    <circle cx="103.5" cy="103.5" r="4"/>
+    <circle cx="130.5" cy="103.5" r="4"/>
+    <circle cx="139.5" cy="103.5" r="4"/>
+    <circle cx="148.5" cy="103.5" r="4"/>
+    <circle cx="166.5" cy="103.5" r="4"/>
+    <circle cx="175.5" cy="103.5" r="4"/>
+    <circle cx="184.5" cy="103.5" r="4"/>
+    <circle cx="193.5" cy="103.5" r="4"/>
+    <circle cx="202.5" cy="103.5" r="4"/>
+    <circle cx="211.5" cy="103.5" r="4"/>
+    <circle cx="220.5" cy="103.5" r="4"/>
+    <circle cx="229.5" cy="103.5" r="4"/>
+    <circle cx="256.5" cy="103.5" r="4"/>
+    <circle cx="265.5" cy="103.5" r="4"/>
+    <circle cx="274.5" cy="103.5" r="4"/>
+    <circle cx="283.5" cy="103.5" r="4"/>
+    <circle cx="292.5" cy="103.5" r="4"/>
+    <circle cx="301.5" cy="103.5" r="4"/>
+    <circle cx="328.5" cy="103.5" r="4"/>
+    <circle cx="337.5" cy="103.5" r="4"/>
+    <circle cx="355.5" cy="103.5" r="4"/>
+    <circle cx="364.5" cy="103.5" r="4"/>
+    <circle cx="382.5" cy="103.5" r="4"/>
+    <circle cx="391.5" cy="103.5" r="4"/>
+    <circle cx="418.5" cy="103.5" r="4"/>
+    <circle cx="427.5" cy="103.5" r="4"/>
+    <circle cx="454.5" cy="103.5" r="4"/>
+    <circle cx="463.5" cy="103.5" r="4"/>
+    <circle cx="517.5" cy="103.5" r="4"/>
+    <circle cx="526.5" cy="103.5" r="4"/>
+    <circle cx="535.5" cy="103.5" r="4"/>
+    <circle cx="544.5" cy="103.5" r="4"/>
+    <circle cx="553.5" cy="103.5" r="4"/>
+    <circle cx="589.5" cy="103.5" r="4"/>
+    <circle cx="598.5" cy="103.5" r="4"/>
+    <circle cx="607.5" cy="103.5" r="4"/>
+  </g>
+  <text class="ink b" x="440.0" y="215.40845070422534" font-size="20" text-anchor="middle">a small independent software studio</text>
+  <text class="ink r" x="440.0" y="241.40845070422534" font-size="13" text-anchor="middle" xml:space="preserve">one output  /  no sidecars  /  signed by default</text>
+  <circle class="ink" cx="62" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="71" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="80" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="89" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="98" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="107" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="116" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="125" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="134" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="143" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="152" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="161" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="170" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="179" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="188" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="197" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="206" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="215" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="224" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="233" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="242" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="251" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="260" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="269" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="278" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="287" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="296" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="305" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="314" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="323" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="332" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="341" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="350" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="359" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="368" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="377" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="386" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="395" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="404" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="413" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="422" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="431" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="440" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="449" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="458" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="467" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="476" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="485" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="494" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="503" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="512" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="521" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="530" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="539" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="548" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="557" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="566" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="575" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="584" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="593" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="602" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="611" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="620" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="629" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="638" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="647" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="656" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="665" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="674" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="683" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="692" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="701" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="710" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="719" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="728" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="737" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="746" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="755" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="764" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="773" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="782" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="791" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="800" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="809" cy="281.40845070422534" r="1.5"/>
+  <circle class="ink" cx="818" cy="281.40845070422534" r="1.5"/>
+  <text class="ink r" x="440.0" y="325.40845070422534" font-size="16" text-anchor="middle">We build tools the way they should have been built.</text>
+  <text class="ink r" x="440.0" y="351.40845070422534" font-size="16" text-anchor="middle">One output. No sidecars. Signed by default.</text>
+  <text class="ink r" x="440.0" y="377.40845070422534" font-size="16" text-anchor="middle">And no wrappers around someone else's config soup.</text>
+  <text class="ink b" x="440.0" y="433.40845070422534" font-size="24" text-anchor="middle">How we work.</text>
+  <rect class="line" x="56.5" y="461.90845070422534" width="375.0" height="152"/>
+  <text class="ink r" x="76.0" y="493.40845070422534" font-size="12">01</text>
+  <text class="ink b" x="76.0" y="521.4084507042253" font-size="17">Take the obvious route</text>
+  <text class="ink r" x="76.0" y="549.4084507042253" font-size="14">If there's a boring way to do something,</text>
+  <text class="ink r" x="76.0" y="570.4084507042253" font-size="14">that's the way we do it.</text>
+  <rect class="line" x="448.5" y="461.90845070422534" width="375.0" height="152"/>
+  <text class="ink r" x="468.0" y="493.40845070422534" font-size="12">02</text>
+  <text class="ink b" x="468.0" y="521.4084507042253" font-size="17">Fewer parts</text>
+  <text class="ink r" x="468.0" y="549.4084507042253" font-size="14">Every extra piece is something that can</text>
+  <text class="ink r" x="468.0" y="570.4084507042253" font-size="14">break later, so we keep cutting until</text>
+  <text class="ink r" x="468.0" y="591.4084507042253" font-size="14">only what's needed is left.</text>
+  <rect class="line" x="56.5" y="630.9084507042253" width="375.0" height="131"/>
+  <text class="ink r" x="76.0" y="662.4084507042253" font-size="12">03</text>
+  <text class="ink b" x="76.0" y="690.4084507042253" font-size="17">Mind the small stuff</text>
+  <text class="ink r" x="76.0" y="718.4084507042253" font-size="14">Little details decide whether a tool</text>
+  <text class="ink r" x="76.0" y="739.4084507042253" font-size="14">feels right, so we spend time on them.</text>
+  <rect class="line" x="448.5" y="630.9084507042253" width="375.0" height="131"/>
+  <text class="ink r" x="468.0" y="662.4084507042253" font-size="12">04</text>
+  <text class="ink b" x="468.0" y="690.4084507042253" font-size="17">Our own way</text>
+  <text class="ink r" x="468.0" y="718.4084507042253" font-size="14">We're independent and opinionated.</text>
+  <text class="ink r" x="468.0" y="739.4084507042253" font-size="14">Nobody signs off on our work but us.</text>
+  <rect class="line" x="56.5" y="778.9084507042253" width="375.0" height="152"/>
+  <text class="ink r" x="76.0" y="810.4084507042253" font-size="12">05</text>
+  <text class="ink b" x="76.0" y="838.4084507042253" font-size="17">No sidecars</text>
+  <text class="ink r" x="76.0" y="866.4084507042253" font-size="14">Companion files and helper processes</text>
+  <text class="ink r" x="76.0" y="887.4084507042253" font-size="14">count as bugs. If something can ship as</text>
+  <text class="ink r" x="76.0" y="908.4084507042253" font-size="14">one file, it ships as one file.</text>
+  <rect class="line" x="448.5" y="778.9084507042253" width="375.0" height="152"/>
+  <text class="ink r" x="468.0" y="810.4084507042253" font-size="12">06</text>
+  <text class="ink b" x="468.0" y="838.4084507042253" font-size="17">Easy to maintain</text>
+  <text class="ink r" x="468.0" y="866.4084507042253" font-size="14">We'd rather write code that's still easy</text>
+  <text class="ink r" x="468.0" y="887.4084507042253" font-size="14">to fix years from now than code that's</text>
+  <text class="ink r" x="468.0" y="908.4084507042253" font-size="14">fashionable today.</text>
+  <circle class="ink" cx="62" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="71" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="80" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="89" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="98" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="107" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="116" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="125" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="134" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="143" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="152" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="161" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="170" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="179" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="188" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="197" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="206" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="215" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="224" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="233" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="242" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="251" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="260" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="269" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="278" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="287" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="296" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="305" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="314" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="323" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="332" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="341" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="350" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="359" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="368" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="377" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="386" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="395" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="404" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="413" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="422" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="431" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="440" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="449" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="458" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="467" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="476" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="485" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="494" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="503" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="512" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="521" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="530" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="539" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="548" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="557" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="566" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="575" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="584" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="593" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="602" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="611" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="620" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="629" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="638" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="647" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="656" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="665" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="674" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="683" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="692" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="701" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="710" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="719" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="728" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="737" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="746" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="755" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="764" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="773" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="782" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="791" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="800" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="809" cy="975.4084507042253" r="1.5"/>
+  <circle class="ink" cx="818" cy="975.4084507042253" r="1.5"/>
+  <text class="ink r" x="440.0" y="1015.4084507042253" font-size="13" text-anchor="middle">Licensed under Apache-2.0. Always, No matter what.</text>
+</svg>
