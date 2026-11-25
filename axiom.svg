@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 182" width="700" height="182" role="img" aria-label="axiomwtf">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 770 182" width="770" height="182" role="img" aria-label="axiomwtf">
   <style>
     @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@800&amp;display=block');
     @font-face {
@@ -16,7 +16,7 @@
       <circle class="ink" cx="3.5" cy="3.5" r="2.9"/>
     </pattern>
     <!-- snap the glyphs to the 7px grid: a cell is fully on or fully off -->
-    <filter id="grid" filterUnits="userSpaceOnUse" x="0" y="0" width="700" height="182" color-interpolation-filters="sRGB">
+    <filter id="grid" filterUnits="userSpaceOnUse" x="0" y="0" width="770" height="182" color-interpolation-filters="sRGB">
       <feFlood x="3" y="3" width="1" height="1" flood-color="#ffffff"/>
       <feComposite x="0" y="0" width="7" height="7"/>
       <feTile result="samples"/>
@@ -26,9 +26,9 @@
         <feFuncA type="discrete" tableValues="0 1"/>
       </feComponentTransfer>
     </filter>
-    <mask id="lit" maskUnits="userSpaceOnUse" x="0" y="0" width="700" height="182">
-      <text class="word" x="350" y="133" text-anchor="middle" fill="#ffffff" filter="url(#grid)">axiomwtf</text>
+    <mask id="lit" maskUnits="userSpaceOnUse" x="0" y="0" width="770" height="182">
+      <text class="word" x="7 103 199 295 391 487 583 679" y="133" fill="#ffffff" filter="url(#grid)">axiomwtf</text>
     </mask>
   </defs>
-  <rect width="700" height="182" fill="url(#leds)" mask="url(#lit)"/>
+  <rect width="770" height="182" fill="url(#leds)" mask="url(#lit)"/>
 </svg>
